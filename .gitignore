@@ -75,3 +75,14 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+VersionControl/.vs/
+*.sln
+VersionControl/Binaries/
+VersionControl/Intermediate/
+VersionControl/Saved/
+VersionControl/Releases/
+Releases/
+VersionControl/Build/
+VersionControl/Versions/WindowsNoEditor/
+
