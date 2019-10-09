@@ -76,13 +76,13 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-VersionControl/.vs/
+UE4/.vs/
 *.sln
-VersionControl/Binaries/
-VersionControl/Intermediate/
-VersionControl/Saved/
-VersionControl/Releases/
+UE4/Binaries/
+UE4/Intermediate/
+UE4/Saved/
+UE4/Releases/
 Releases/
-VersionControl/Build/
-VersionControl/Versions/WindowsNoEditor/
+UE4/Build/
+UE4/Versions/WindowsNoEditor/
 
